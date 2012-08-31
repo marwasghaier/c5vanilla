@@ -1,0 +1,2 @@
+c5vanilla
+Based on https://github.com/cibgraphics/Vanilla5 and Twitter's Bootstrap: https://github.com/twitter/bootstrap

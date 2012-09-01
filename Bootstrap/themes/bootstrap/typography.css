@@ -1,0 +1,43 @@
+body { 
+	font:13px "Helvetica Neue",Helvetica,Arial,sans-serif; 
+		/* customize_font_color */ color:#333333; /* customize_font_color */
+	line-height: 18px;
+	/* customize_background */ background-color: #fff ; /* customize_background */
+	padding:0;margin:0
+	
+}
+
+a ,a:visited{
+	/* customize_link_color */  color: #0088CC; /* customize_link_color */ text-decoration:none;
+}
+
+a:hover {
+	/* customize_link_hover */ color: #005580; /* customize_link_hover */text-decoration: none;
+} 
+
+
+
+h1 {
+	/* customize_h1_color */ color:#333333; /* customize_h1_color */
+}
+h2 {
+	/* customize_h2_color */ color:#333333; /* customize_h2_color */
+}
+h3 {
+	/* customize_h3_color */ color:#333333; /* customize_h3_color */
+}
+h4 {
+	/* customize_h4_color */ color:#333333; /* customize_h4_color */
+}
+h5 {
+	/* customize_h5_color */ color:#333333; /* customize_h5_color */
+}
+
+
+/* customize_miscellaneous */ 
+
+
+/* customize_miscellaneous */
+
+.btn {}
+.bootstrap-tooltip{}

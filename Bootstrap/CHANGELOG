@@ -1,0 +1,52 @@
+2.0.4.3
+Fix for ecommerce paging (mobile version)
+Fix for auto nav (now has full functionality while logged in as admin)
+
+2.0.4.2
+Added LESS CSS (Optional)
+Added 3 custom templates for "content" block (well, modal, hero)
+Fix for header drop nav on ie 8
+Fix for bootstrap left and right custom templates for auto nav
+Search custom template changed to not display results
+Sorting fix for product list custom template
+
+2.0.4.1
+Added responsive video support (built in youtube block and hereNT Vimeo Block)
+Added 1 additional custom template for auto nav (bootstrap optional nav)
+Added 2 optional header nav editable areas (optional header nav, global optional header nav)
+Added functionality to hide sticky header nav, sub level nav and footer editable areas if not used
+Added bootstrap-tooltip class to CSS for tooltip support (available in tinymce editor)
+Added CSS to make layouts responsive
+Reworked auto-nav to no longer need a custom attribute set to expose sub level pages
+Reworked mobile version of auto-nav to display sub level pages when clicked on instead of always showing
+
+2.0.4 
+Updated to Bootstrap v2.0.4
+CSS fixes for login and register pages
+Added optional global header and footer editable areas
+Added additional options to customize theme page
+
+2.0.3.2
+ecommerce fix
+responsive image fix
+
+2.0.3.1 
+Updated to Bootstrap Version 2.0.3
+Removed fav icons
+Fix for contact form email input
+
+2.0.3 
+CSS changes
+eCommerce and Pro Blog support added
+
+2.0.2
+Fixed space in header of fluid pages types
+
+2.0.1
+CSS fix for conflict with properties manager. Updated to version 2.0.1 to match current Bootstrap version
+
+1.2
+Updated to latest Bootstrap Version 2.0.1
+
+1.1
+Updated to latest Bootstrap Version 2.0.0

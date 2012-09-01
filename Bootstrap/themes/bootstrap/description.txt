@@ -1,0 +1,2 @@
+Bootstrap
+Based on responsive Bootstrap, from Twitter. For support <a href="https://www.hostco.com/manage/submitticket.php">click here</a>

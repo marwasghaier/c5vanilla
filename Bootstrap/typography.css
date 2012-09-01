@@ -1,0 +1,87 @@
+/*
+This is used for font styles for basic html elements. 
+The WYSIWYG editor [“TinyMCE”] only looks for a stylesheet called “typography.css”, not “main.css” and so text is displayed in the WYSIWYG editor the same as it is displayed on the page because .
+Only move the following properties (and only when they're in the elements listed below this list)
+
+EXPLANATION IS AT BOTTOM OF STYLESHEET
+*/
+
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: #333333;
+}
+
+a {
+  color: #0088cc;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #005580;
+  text-decoration: underline;
+}
+
+/*
+ - color
+ - font
+ - font-family
+ - font-style
+ - font-variant
+ - font-weight
+ - font-size
+ - line-height
+ - word-spacing
+ - letter-spacing
+ - text-decoration
+ - text-transform
+ - text-align
+ - text-indent
+ - text-shadow
+Only move properties listed above when they're in the following elements:
+body
+ - a
+ - a:hover
+ - ul
+ - li
+ - ol
+ - p
+ - address
+ - pre
+ - h1
+ - h2
+ - h3
+ - h4
+ - h5
+ - h6
+ - div
+ - blockquote
+ - cite
+ 
+For example, if you have something like this in your main.css file:
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #F7F7F7 url(images/img01.jpg) repeat-x left top;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #787878;
+}
+You would put the following in typography.css:
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #787878;
+}
+And that would leave you with this in main.css:
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #F7F7F7 url(images/img01.jpg) repeat-x left top;
+}
+*/

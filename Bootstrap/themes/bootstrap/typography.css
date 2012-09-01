@@ -3,7 +3,6 @@ body {
 		/* customize_font_color */ color:#333333; /* customize_font_color */
 	line-height: 18px;
 	/* customize_background */ background-color: #fff ; /* customize_background */
-	padding:0;margin:0
 	
 }
 
@@ -12,7 +11,7 @@ a ,a:visited{
 }
 
 a:hover {
-	/* customize_link_hover */ color: #005580; /* customize_link_hover */text-decoration: none;
+	/* customize_link_hover */ color: #005580; /* customize_link_hover */ text-decoration: none;
 } 
 
 
